@@ -7,7 +7,9 @@ This project trains a custom clothing segmentation model, runs image and video s
 ## Demo
 
 ![Live clothes swap demo](assets/demo/ScreenRecording2026-05-17024535-ezgif.com-optimize.gif)
+
 Pexels video by Olia Danilevich
+
 ## Features
 
 - YOLO-based clothing segmentation
