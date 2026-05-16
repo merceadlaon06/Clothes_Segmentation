@@ -4,6 +4,10 @@ Depth-aware clothes segmentation and virtual fabric overlay using YOLO, OpenCV, 
 
 This project trains a custom clothing segmentation model, runs image and video segmentation, and supports live class-specific clothes texture swapping while preserving masks, folds, shadows, and depth cues.
 
+## Demo
+
+![Live clothes swap demo](assets/demo/ScreenRecording2026-05-17024535-ezgif.com-optimize.gif)
+
 ## Features
 
 - YOLO-based clothing segmentation
