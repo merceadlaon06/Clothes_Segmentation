@@ -1,0 +1,13 @@
+train: ../local_only/dataset/train/images
+val: ../local_only/dataset/valid/images
+test: ../local_only/dataset/test/images
+
+nc: 13
+names: ['long sleeve dress', 'long sleeve outwear', 'long sleeve top', 'short sleeve dress', 'short sleeve outwear', 'short sleeve top', 'shorts', 'skirt', 'sling', 'sling dress', 'trousers', 'vest', 'vest dress']
+
+roboflow:
+  workspace: manga-6lre3
+  project: clothes-tllhe
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/manga-6lre3/clothes-tllhe/dataset/1

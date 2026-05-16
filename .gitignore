@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+local_only/
+
+*.log
+Thumbs.db
+.DS_Store

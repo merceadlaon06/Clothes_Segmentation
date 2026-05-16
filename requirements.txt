@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+numpy
+Pillow
+PyYAML
+torch
+matplotlib
+huggingface_hub
+timm
